@@ -1,0 +1,1 @@
+This is an example of an HTML page with good semantics versus an HTML page with bad semantics
